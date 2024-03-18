@@ -16,7 +16,13 @@ Food and Agriculture Organization of the United Nations via Our World in Data (h
 
 Food and Agriculture Organization of the United Nations via Our World in Data (https://ourworldindata.org/grapher/poultry-livestock-count)
 
+Global Carbon Budget (2023); Population based on various sources (2023) via Our World in Data (https://ourworldindata.org/grapher/co-emissions-per-capita)
+
+Global Carbon Budget (2023) via Our World in Data (https://ourworldindata.org/grapher/annual-co2-emissions-per-country)
+
 International Civil Aviation Organization (via World Bank) via Our World In Data (https://ourworldindata.org/grapher/air-passengers-carried)
+
+International Renewable Energy Agency (2023) via Our World in Data (https://ourworldindata.org/grapher/levelized-cost-of-energy)
 
 UN Food and Agriculture Organization (FAO). Forest Resources Assessment via Our World in Data (https://ourworldindata.org/grapher/annual-deforestation)
 
